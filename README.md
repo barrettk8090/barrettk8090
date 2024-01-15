@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hello, I'm Barrett Kowalsky 👋
+### Fullstack developer based in Denver, CO ⛰️
 
 <!--
 **barrettk8090/barrettk8090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently enrolled in Flatiron School in Denver, a coding bootcamp where I've been learning JavaScript, React, Python, Flask, and SQL.
+- Outside of class, I'm beginning to learn other languages such as golang and solidity.
+- You can check out some of my blog posts here: https://barrettk.hashnode.dev/
+- Connect with me on Linkedin: https://www.linkedin.com/in/barrettkowalsky/
+- Send me an email: barrettkowalsky@gmail.com
+
