@@ -22,3 +22,4 @@ Here are some ideas to get you started:
 - Connect with me on Linkedin: https://www.linkedin.com/in/barrettkowalsky/
 - Send me an email: barrettkowalsky@gmail.com
 
+![](https://komarev.com/ghpvc/?username=barrettk8090)
