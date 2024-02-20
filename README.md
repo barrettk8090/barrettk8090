@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently enrolled in Flatiron School in Denver, a coding bootcamp where I've been learning JavaScript, React, Python, Flask, and SQL.
-- Outside of class, I'm beginning to learn other languages such as golang and solidity.
+- I recently graduated from Flatiron School in Denver, an intensive coding bootcamp where I learned JavaScript, React, Python, Flask, and SQL.
+- Outside of class, I'm beginning to learn other languages such as golang and solidity. 
 - You can check out some of my blog posts here: https://barrettk.hashnode.dev/
 - Connect with me on Linkedin: https://www.linkedin.com/in/barrettkowalsky/
 - Send me an email: barrettkowalsky@gmail.com
