@@ -1,5 +1,6 @@
 ## Hello, I'm Barrett Kowalsky 👋
-### Fullstack developer based in Denver, CO ⛰️
+### Full Stack Developer based in Denver, CO ⛰️
+🔗 **Website**: https://barrettkowalsky.com/
 
 <!--
 **barrettk8090/barrettk8090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
