@@ -13,7 +13,9 @@
 🧠 Learning golang, solidity, typescript, aws
 
 👤 LinkedIn: https://www.linkedin.com/in/barrettkowalsky/
+
 📘 Blog: https://barrettk.hashnode.dev/
+
 📫 Email me: barrettkowalsky@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=barrettk8090)
