@@ -2,25 +2,18 @@
 ### Full Stack Developer based in Denver, CO ⛰️
 🔗 **Website**: https://barrettkowalsky.com/
 
-<!--
-**barrettk8090/barrettk8090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗒️ Tech Stack: JavaScript, React, Python, Flask, SQL, PostgreSQL, Solidity, HTML, CSS, Tailwind
 
-Here are some ideas to get you started:
+🔍 Working with the [Sirch](https://thesirchengine.com/) team on democratizing the search experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Currently building [Doomscroll](https://github.com/barrettk8090/doomscroll), a politics-free way to stay up-to-date on the end times.
 
-- I recently graduated from Flatiron School in Denver, an intensive coding bootcamp where I learned JavaScript, React, Python, Flask, and SQL.
-- Outside of class, I'm beginning to learn other languages such as golang and solidity. 
-- You can check out some of my blog posts here: https://barrettk.hashnode.dev/
-- Connect with me on Linkedin: https://www.linkedin.com/in/barrettkowalsky/
-- Send me an email: barrettkowalsky@gmail.com
+🪙 Experience with building descralized applications, like [fundOS](https://github.com/barrettk8090/fundOS) 
+
+🧠 Learning golang, solidity, typescript, aws
+
+👤 LinkedIn: https://www.linkedin.com/in/barrettkowalsky/
+📘 Blog: https://barrettk.hashnode.dev/
+📫 Email me: barrettkowalsky@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=barrettk8090)
