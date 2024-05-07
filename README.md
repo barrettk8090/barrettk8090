@@ -8,7 +8,7 @@
 
 💻 Currently building [Doomscroll](https://github.com/barrettk8090/doomscroll), a politics-free way to stay up-to-date on the end times.
 
-🪙 Experience with building descralized applications, like [fundOS](https://github.com/barrettk8090/fundOS) 
+🪙 Experience with building decentralized applications(dApps), like [fundOS](https://github.com/barrettk8090/fundOS) 
 
 🧠 Learning golang, solidity, typescript, aws
 
